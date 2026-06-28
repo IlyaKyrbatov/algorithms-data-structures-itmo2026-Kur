@@ -25,14 +25,14 @@
 ## Сборка и запуск
 
 ```bash
-gcc lab1ponat.c -o lab1
+gcc lab1.c -o lab1
 ./lab1
 ```
 
 На Windows (MinGW):
 
 ```bash
-gcc lab1ponat.c -o lab1.exe
+gcc lab1.c -o lab1.exe
 lab1.exe
 ```
 
@@ -48,5 +48,5 @@ lab1.exe
 
 ## Файлы
 
-- `lab1ponat.c` — исходный код
-- `report.docx` — отчёт (постановка задачи, блок-схемы, оценка сложности, тестирование)
+- `lab1.c` — исходный код
+- `LR1_Kurbatov.docx` — отчёт (постановка задачи, блок-схемы, оценка сложности, тестирование)
